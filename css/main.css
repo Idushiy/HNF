@@ -9,15 +9,27 @@ header {
   padding-bottom: 20px;
 }
 
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
 nav {
   float: right;
   margin-top: 40px;
 }
 
 .menu li {
-  float: left;
-  margin-right: 30px;
   display: block;
+  margin-right: 20px;
+  float: left;
+}
+
+.menu a {
+  float: right;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
 }
 
 .logo {
