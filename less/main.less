@@ -1,8 +1,0 @@
-stream1.on('error', function() { console.log('error 1') })
-stream2.on('error', function() { console.log('error 2') })
-stream3.on('error', function() { console.log('error 3') })
-stream1
-   .pipe(stream2)
-   .pipe(stream3);
-stream1.emit('error');
-// в консоли выведется только "error 1"
