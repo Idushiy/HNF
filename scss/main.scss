@@ -1,8 +1,10 @@
 
-@import "../libs/bootstrap/scss/bootstrap";
 @import "../libs/bootstrap/dist/css/bootstrap";
 @import "../libs/font-awesome/css/font-awesome";
 
 
 @import "style";
 @import "color";
+@import "footer";
+@import "mixins";
+@import "navbar";

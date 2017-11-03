@@ -3,10 +3,6 @@
 //= ../libs/jquery-easing/jquery.easing.js
 //= ../libs/bootstrap/dist/js/bootstrap.js
 //= custom/scroll.js
-
-
-
-
-
-
+//= custom/jqBootstrapValidation.js
+//= custom/contact_me.js
 
